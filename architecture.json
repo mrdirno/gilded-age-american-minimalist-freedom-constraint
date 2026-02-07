@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-minimalist-freedom-constraint",
+  "title": "The Line of Erasure",
+  "tagline": "A fixer in the Gilded Age measures his freedom by the debts he must destroy.",
+  "target_words": 70000,
+  "actual_words": 69362,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Geometry of Obligation",
+    "Minimalism as Armor",
+    "The Violence of Quiet Men",
+    "The Price of a Clean Slate"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Moving Cage",
+      "words": 2900
+    },
+    {
+      "ch": 2,
+      "title": "The Palmer House",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "The Granger Ledger",
+      "words": 2700
+    },
+    {
+      "ch": 4,
+      "title": "The Lacquered Distraction",
+      "words": 3000
+    },
+    {
+      "ch": 5,
+      "title": "The Iron Heart",
+      "words": 3200
+    },
+    {
+      "ch": 6,
+      "title": "A Splinter's Defense",
+      "words": 3100
+    },
+    {
+      "ch": 7,
+      "title": "The First Pressure Point",
+      "words": 2900
+    },
+    {
+      "ch": 8,
+      "title": "A Crack in the Armor",
+      "words": 2800
+    },
+    {
+      "ch": 9,
+      "title": "The Offer Reframed",
+      "words": 3100
+    },
+    {
+      "ch": 10,
+      "title": "The Unseen Ledger",
+      "words": 3300
+    },
+    {
+      "ch": 11,
+      "title": "Poole's Gambit",
+      "words": 2700
+    },
+    {
+      "ch": 12,
+      "title": "The Ethical Extraction",
+      "words": 3200
+    },
+    {
+      "ch": 13,
+      "title": "Vane's Ultimatum",
+      "words": 2600
+    },
+    {
+      "ch": 14,
+      "title": "Drawing the New Line",
+      "words": 2900
+    },
+    {
+      "ch": 15,
+      "title": "The Visit",
+      "words": 2800
+    },
+    {
+      "ch": 16,
+      "title": "A Community's Weight",
+      "words": 3400
+    },
+    {
+      "ch": 17,
+      "title": "The Tool Becomes a Wedge",
+      "words": 3000
+    },
+    {
+      "ch": 18,
+      "title": "Burning a Different Page",
+      "words": 3100
+    },
+    {
+      "ch": 19,
+      "title": "Consequences in Brass and Velvet",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "The Cage Redefined",
+      "words": 2700
+    },
+    {
+      "ch": 21,
+      "title": "A Choice of Masters",
+      "words": 3300
+    },
+    {
+      "ch": 22,
+      "title": "The Final Diagram",
+      "words": 2800
+    },
+    {
+      "ch": 23,
+      "title": "Ashes in the Tray",
+      "words": 2600
+    },
+    {
+      "ch": 24,
+      "title": "The Empty Paper",
+      "words": 2500
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character maps a complex moral or financial obligation as a physical diagram or abstract drawing.",
+      "Create a conversation between two minimalist characters where every word is a calculated transaction, and an unspoken debt is created.",
+      "Imagine a Gilded Age tycoon who has built an empire on a single, seemingly trivial principle. Defend that principle against a pragmatic dismantler.",
+      "Describe a character performing a daily ritual of 'erasure'—burning a page, washing a slate, deleting a file—to achieve mental freedom. What happens the day the ritual fails?"
+    ],
+    "technical": [
+      "Build a 'Constraint Visualizer' tool that allows a user to input obligations (time, money, social) and generates a unique, abstract line drawing representing their personal 'debt map'.",
+      "Design a text-based game where the player is a fixer like Henry. Resources are not money or items, but 'lines of obligation' you must draw, manipulate, and erase to solve problems."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ernest Hemingway",
+      "Henry David Thoreau",
+      "Ayn Rand",
+      "Mies van der Rohe"
+    ]
+  },
+  "cover_prompt": "A solitary man in a stark, impeccably tailored wool suit stands at a rain-slicked window in a minimalist study, his back to the viewer, methodically burning a small stack of promissory notes in a crystal ashtray; the scene is set in a Gilded Age mansion room stripped of all ornament, where the only details are geometric shadows cast by bare windowpanes and the faint, ghostly impression on the wall where a lavish painting once hung, in the atmospheric style of Edward Hopper and Vilhelm Hammershøi, emphasizing emotional isolation and stark interiors. The composition is a tight, centered book cover frame with a dramatic low-angle view, making the figure a tall, constrained silhouette against the cold window light, the camera focusing on the contrast between the deliberate, quiet action of his hands and the oppressive stillness of the room. The lighting is stark, high-contrast chiaroscuro with a cool, muted color palette of slate grey, charcoal, dull gold, and ash white, punctuated only by the warm, dying ember glow of the burning paper in his hands. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
