@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The train was a moving cage of polished brass and velvet, and inside it, Henry Cull cut a steak.
@@ -118,6 +120,8 @@ Henry stood on the opposite sidewalk. This was not the activity of a society dau
 
 He noted the address. He turned and walked back toward the hotel. The first line of his new constraint had been drawn. It pointed at a woman in a green suit, who walked like she had a destination in mind.
 
+# Chapter 2
+
 ## **Chapter 2**
 
 The design school smelled of sawdust, lead, and earnest effort.
@@ -227,6 +231,8 @@ He thought of her dismissing him. *“If the work speaks to them, they can find 
 Henry Cull always found his own way. He did not knock. He found the lock, the hinge, the hidden latch. And then he opened the door, walked through, and took what he was paid to take. The freedom on the other side of this was a cold, clear, and vast emptiness. It awaited him.
 
 He sat in the dark, not moving, until the city’s lights began to blur into the first gray of dawn.
+
+# Chapter 3
 
 ## **Chapter 3**
 
