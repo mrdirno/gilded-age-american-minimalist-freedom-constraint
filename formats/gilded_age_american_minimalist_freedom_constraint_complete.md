@@ -2,7 +2,9 @@
 
 ## **Chapter 1**
 
-The train was a moving cage of polished brass and velvet, and inside it, Henry Cull cut a steak.
+Carnegie’s steel paid for the parlor’s gilding, but Eliza’s world was measured in inches. The new dress, a cage of whalebone and emerald silk, allowed precisely three for breathing. She stared past her reflection, counting the bars in the window instead.
+
+
 
 The knife was his own. Sheffield steel, bone handle worn smooth by his grandfather’s palm, then his father’s, then his. The train’s silver cutlery lay untouched beside his plate, a redundant gleam. The dining car swayed, a long, luxurious sigh on the tracks, but Henry’s wrist was a pivot, absorbing the motion. The blade parted the meat without sound. He ate methodically. Chewed. Swallowed. Drank water from a crystal tumbler. Around him, the noise was a low, rich tapestry: the chime of fine glass, the murmur of money, the rustle of silk against broadcloth.
 
